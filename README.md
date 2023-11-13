@@ -1,1 +1,1 @@
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=blue-green)
+![Tamanho do Arquivo](https://badge-size.herokuapp.com/Luann8/Flask-Python-1/main/nome-do-arquivo.extensao)
